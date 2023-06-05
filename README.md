@@ -1,9 +1,9 @@
 ### Olá! Sou o Daniel Rodrigues 👋
 Estou iniciando minha carreira como Desenvolvedor e atualmente estou em busca de estágio.
  
- 📍 São Pualo, Brasil
- 📚 Análise e Desenvolvimento de Sistemas - SENAC
- 👨‍💻 Desenvolvedor Front-End
+ 📍 São Paulo, Brasil</br>
+ 📚 Análise e Desenvolvimento de Sistemas - SENAC</br>
+ 👨‍💻 Desenvolvedor Front-End</br>
 
 ![Daniel Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=xrdaniel&show_icons=true&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrdaniel&layout=donut-vertical)](https://github.com/xrdaniel/github-readme-stats)
