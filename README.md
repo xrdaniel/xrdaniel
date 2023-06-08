@@ -1,6 +1,6 @@
 <h2> Olá! Me chamo Daniel Rodrigues 👋</h2>
 Estou iniciando minha carreira como Desenvolvedor e atualmente estou em busca de estágio.</br>
- 🙋‍♂️ 19 Anos</br>
+ 🙋‍♂️ 20 Anos</br>
  ❤️ Apaixonado por tecnologia</br>
  📍 São Paulo, Brasil</br>
  📚 Análise e Desenvolvimento de Sistemas - SENAC</br>
