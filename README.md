@@ -8,7 +8,7 @@ Estou iniciando minha carreira como Desenvolvedor e atualmente estou em busca de
  <h4>Fique a vontade para me contatar ;)</h4> 
 
 ![Daniel Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=xrdaniel&show_icons=true&theme=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrdanie&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrdaniel&layout=compact)
  
 ## Tecnologias 💻
 <div style="display: inline-block"><br/>
