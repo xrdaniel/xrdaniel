@@ -4,7 +4,7 @@ Estou iniciando minha carreira como Desenvolvedor e atualmente estou em busca de
  ❤️ Apaixonado por tecnologia</br>
  📍 São Paulo, Brasil</br>
  📚 Análise e Desenvolvimento de Sistemas - SENAC</br>
- 👨‍💻 Desenvolvedor Front-End</br>
+ 👨‍💻 Desenvolvedor Web Full Stack</br>
  <h4>Fique a vontade para me contatar ;)</h4> 
 
 ![Daniel Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=xrdaniel&show_icons=true&theme=white)
