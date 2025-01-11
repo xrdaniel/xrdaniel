@@ -1,6 +1,6 @@
 <h2> Olá! Me chamo Daniel Rodrigues 👋</h2>
 Estou iniciando minha carreira como Desenvolvedor e atualmente trabalho como Desenvolvedor Web Jr.</br>
- 🙋‍♂️ 20 Anos</br>
+ 🙋‍♂️ 22 Anos</br>
  ❤️ Apaixonado por tecnologia</br>
  📍 São Paulo, Brasil</br>
  📚 Análise e Desenvolvimento de Sistemas - SENAC</br>
