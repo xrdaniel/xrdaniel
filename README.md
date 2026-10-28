@@ -5,7 +5,7 @@ Analista de Inovação e Automação, construo soluções que transformam proces
 <br/>🙋‍♂️ 23 anos
 <br/>📍 São Paulo, Brasil
 <br/>📚 ADS · Senac | Pós em RPA & Hiperautomação · PUC
-<br/>💼 Analista de Inovação e Automação Pleno
+<br/>💼 Analista de Inovação e Automação 
 
 <br/>**Stack principal:** Python · TypeScript · Node.js · FastAPI · n8n · Power Automate · GCP
 
