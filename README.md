@@ -1,6 +1,6 @@
 <h2>Olá! Me chamo Daniel Rodrigues 👋</h2>
 
-Analista de Inovação e Automação Pleno, construo soluções que transformam processos manuais em sistemas escaláveis, seguros e eficientes.
+Analista de Inovação e Automação, construo soluções que transformam processos manuais em sistemas escaláveis, seguros e eficientes.
 
 <br/>🙋‍♂️ 23 anos
 <br/>📍 São Paulo, Brasil
